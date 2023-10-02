@@ -1,3 +1,3 @@
 # CvdG
 
-My new Github profile
+My personal projects on Github.
